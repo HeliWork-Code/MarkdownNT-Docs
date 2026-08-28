@@ -8,3 +8,5 @@
   - [问题列表](/issues.md)
 - 贡献指南
   - [如何贡献您的宝贵代码](/CONTRIBUTING.md)
+- 更新日志
+  - [我们都做了什么](/CHANGELOG.md)
