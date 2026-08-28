@@ -6,3 +6,5 @@
   - [如何构建项目](/build.md)
 - 已知问题
   - [问题列表](/issues.md)
+- 贡献指南
+  - [如何贡献您的宝贵代码](/CONTRIBUTING.md)
